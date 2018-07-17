@@ -1,4 +1,4 @@
-####Get started
+## Get started
 
 clone or download the repository into your GOPATH
 
@@ -14,6 +14,6 @@ $ bin/ecp
 
 ```
 ($ ecp create) to create an ecdsa private key or generate a keystore
-($ ecp create) parse an ecdsa private key or a keystore with an exist file , return an address of ecdsa public key
+($ ecp parse) parse an ecdsa private key or a keystore with an exist file , return an address of ecdsa public key
 ```
 
